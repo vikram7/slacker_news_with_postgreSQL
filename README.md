@@ -1,3 +1,7 @@
+Need to update the following:
+- comment formatting
+- error message if no comment
+
 Slacker News...But This Time With Databases!
 Pair
 Slacker News
